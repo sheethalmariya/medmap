@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "medmap-c54e5",
+    "staging": "medmap-c54e5",
+    "hosting": "medmap-c54e5",
+    "development": "medmap-c54e5"
+  },
+  "targets": {},
+  "etags": {}
+}
